@@ -1,6 +1,7 @@
 pub mod dessert;
 pub mod main_dish;
-use super::diner::main_dish::lasagna;
+use self::main_dish::lasagna;
+// use super::diner::main_dish::lasagna;
 
 pub fn eat() {
     lasagna::eat_lasagna();
