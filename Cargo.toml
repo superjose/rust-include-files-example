@@ -1,0 +1,9 @@
+[package]
+name = "rust-include-files-example"
+version = "0.1.0"
+authors = ["Jose Asilis <superjose_49@hotmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
